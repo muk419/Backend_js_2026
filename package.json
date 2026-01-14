@@ -1,0 +1,22 @@
+{
+  "name": "backendjs",
+  "version": "1.0.0",
+  "description": "basic app deploy ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "mukesh yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
